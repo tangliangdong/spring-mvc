@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/AspectJ"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Spring4.3.3"/>
+	<classpathentry kind="lib" path="C:/Users/18072/Downloads/aopalliance.jar"/>
+	<classpathentry kind="lib" path="C:/Users/18072/Downloads/commons-logging-1.2/commons-logging-1.2.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/18072/Documents/apache-tomcat-8.0.33/lib/servlet-api.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
